@@ -1,5 +1,5 @@
-var parar = 0
-while (parar == 0){
+var recomecar = 0
+while (recomecar == 0){
 
 let lanche = [0,'Xburguer','Xsalada','Xegg','Xtudo','Xpicanha']
 let acompanhamento = [0,'Batata pequena','Batata média','Batata grande','Batata rústica','Cebola frita']
